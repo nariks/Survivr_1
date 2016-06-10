@@ -1,0 +1,17 @@
+
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+
+The colorizr gem uses the concept of creating dynamic methods using the
+:define_method and send method to create all the require methods for the various
+colors on the fly. This has helped the code be DRY.
+
+How long did you spend working on this project?
+I spent a week to complete this project.
+
+What was the most rewarding challenge you conquered?
+The most rewarding challenge was to make the colorizr gem work especially the 
+part of creating the dynamic color methods and to make them print in color.
+
+Where do you still have room to grow?
+I think I still want to delve deeper into metaprogramming and do more examples
+to solidify the concepts.
