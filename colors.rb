@@ -1,5 +1,6 @@
 require 'colorizr'
 
+
 puts "John".red
 puts "Paul".green
 puts "George".blue
